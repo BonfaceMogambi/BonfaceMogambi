@@ -1,2 +1,3 @@
-- 👀 Java, python programming 
-- Cyber security
+Java, python programming 
+Cyber security
+Machine Learning
