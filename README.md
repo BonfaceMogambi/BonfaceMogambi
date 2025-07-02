@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/0844fec3-de2b-4d58-90e6-55834193d360)
-![image](https://github.com/user-attachments/assets/19804b65-a58d-4663-963b-cc284a4b8fc4)
-![image](https://github.com/user-attachments/assets/9f9165da-a91a-45af-a747-f5eddadb109a)
+![AI](https://github.com/user-attachments/assets/48951943-84d8-4c91-a511-62506f0e285d)
+![JAVA](https://github.com/user-attachments/assets/c4f32385-0e4f-4ab4-ae2b-3b80cae2c8b2)
+![PYTHON](https://github.com/user-attachments/assets/d85296ae-bbb6-4bc6-a38b-f343d0b1c1c7)
+
 
