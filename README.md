@@ -5,7 +5,7 @@
        style="width:100px; margin:10px; border-radius:10px;">
   
   <!-- AWS DevOps -->
-  <img src="https://github.com/user-attachments/assets/52f04e85-f213-4a22-967f-35db71ab6d0e" 
+  <img src="https://github.com/user-attachments/assets/c0a8a004-b6c1-410b-b1e7-cdcda7a19321" 
        alt="AWS DevOps" 
        style="width:100px; margin:10px; border-radius:10px;">
   
@@ -45,4 +45,3 @@
   <li>🎓 ITIL 4 Foundation</li>
   <li>☕ Java Developer</li>
 </ul>
-
