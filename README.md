@@ -8,12 +8,7 @@
   <img src="https://github.com/user-attachments/assets/c0a8a004-b6c1-410b-b1e7-cdcda7a19321" 
        alt="AWS DevOps" 
        style="width:100px; margin:10px; border-radius:10px;">
-  
-  <!-- AWS Logo -->
-  <img src="https://github.com/user-attachments/assets/3f5fc134-4947-441e-b3b6-fb5e21f0b045" 
-       alt="AWS Logo" 
-       style="width:100px; margin:10px; border-radius:10px;">
-  
+ 
   <!-- Python Logo -->
   <img src="https://github.com/user-attachments/assets/b542d7a7-0942-4483-a97e-6903399b4df1" 
        alt="Python Logo" 
