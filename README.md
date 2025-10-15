@@ -1,6 +1,7 @@
 Hi There
-  * I am currently working on ML
-  * Learning for PCEP™ certification in Python
-  * MySQL & Mongo DB favorite
+  * AWS DevOps Engineer
+  * AWS Cloud Practitioner
+  * PCEP™ certified.
+  * MySQL/SQL & Mongo DB
 
 
