@@ -30,7 +30,7 @@
        style="width:100px; margin:10px; border-radius:10px;">
 
   <!-- Java Logo (if you upload later, replace this link) -->
-  <img src="https://github.com/user-attachments/assets/YOUR-JAVA-LOGO-LINK" 
+  <<img src="https://github.com/user-attachments/assets/bce75901-d05d-4894-857f-da2ebb495602" />" 
        alt="Java Logo" 
        style="width:100px; margin:10px; border-radius:10px;">
 </p>
@@ -45,3 +45,4 @@
   <li>🎓 ITIL 4 Foundation</li>
   <li>☕ Java Developer</li>
 </ul>
+
