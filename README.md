@@ -1,11 +1,20 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3f5fc134-4947-441e-b3b6-fb5e21f0b045" alt="AWS Logo" width="100"/>
-  <img src="https://github.com/user-attachments/assets/b542d7a7-0942-4483-a97e-6903399b4df1" alt="Python Logo" width="100"/>
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/3f5fc134-4947-441e-b3b6-fb5e21f0b045" 
+       alt="AWS Logo" 
+       style="width:100px; margin-right:20px; border-radius:10px;">
+  <img src="https://github.com/user-attachments/assets/b542d7a7-0942-4483-a97e-6903399b4df1" 
+       alt="Python Logo" 
+       style="width:100px; border-radius:10px;">
 </p>
-Hi There
-  * AWS DevOps Engineer
-  * AWS Cloud Practitioner
-  * PCEP™ certified.
-  * MySQL/SQL & Mongo DB
+
+<h3 align="center">MY COMPETENCES</h3>
+
+<ul align="center" style="list-style-type: none; padding: 0;">
+  <li>💻 AWS DevOps Engineer</li>
+  <li>☁️ AWS Cloud Practitioner</li>
+  <li>🐍 PCEP™ Certified</li>
+  <li>🗃️ MySQL / SQL & MongoDB</li>
+</ul>
+
 
 
