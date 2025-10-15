@@ -1,9 +1,5 @@
-🗄️
-<img width="100" height="63" alt="aws_logo_smile_1200x630" src="https://github.com/user-attachments/assets/e73e3ca8-6247-479d-a448-b055cb4ffce2" />
-![3d-python-programming-language-logo-free-png](https://github.com/user-attachments/assets/c834ac9c-07e0-4b09-9220-d232c59ef4d5)
-
-
-
+<img width="900" height="714" alt="876681-middle" src="https://github.com/user-attachments/assets/84b3e948-9e94-408c-9c9d-e1a33382bc3d" />
+<img width="1280" height="1275" alt="python-logo" src="https://github.com/user-attachments/assets/b542d7a7-0942-4483-a97e-6903399b4df1" />
 
 Hi There
   * AWS DevOps Engineer
