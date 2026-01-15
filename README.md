@@ -6,6 +6,8 @@
     <td><img src="https://github.com/user-attachments/assets/1303cc46-81a8-4acb-859a-8ec8d33cbb79" alt="MySQL Logo" width="100" style="border-radius:10px;"></td>
     <td><img src="https://github.com/user-attachments/assets/c3394a54-ec74-419f-b75b-07c958edc242" alt="ITIL 4" width="100" style="border-radius:10px;"></td>
     <td><img src="https://github.com/user-attachments/assets/bce75901-d05d-4894-857f-da2ebb495602" alt="Java Logo" width="100" style="border-radius:10px;"></td>
+    <td><img src="https://github.com/user-attachments/assets/30d8eb6c-9c9b-4f00-8395-5d0761019528" alt="Java Logo" width="100" style="border-radius:10px;"></td>
+
   </tr>
 </table>
 
@@ -18,4 +20,5 @@
   <li>🗃️ MySQL / SQL & MongoDB</li>
   <li>🎓 ITIL 4 Foundation</li>
   <li>☕ Java Developer</li>
+  <li>🔌 API INTEGRATION - POSTMAN</li>
 </ul>
