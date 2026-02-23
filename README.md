@@ -15,7 +15,8 @@
 
 <ul align="left" style="list-style-type: none; padding: 0;">
   <li>🔌 API INTEGRATION - POSTMAN</li>
-  <li>🐍 Certified Python Developer</li>
+  <li>🐍 Python Developer</li>
+  <li>🐍 Elasticsearch</li>
   <li>🗃️ MySQL / SQL & MongoDB</li>
   <li>🎓 ITIL 4 Foundation</li>
   <li>💻 AWS DevOps Engineer</li>
